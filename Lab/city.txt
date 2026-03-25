@@ -1,0 +1,5 @@
+Dehradun 5.78 308.20
+Delhi 190.0 1484.0
+Mumbai 184.0 603.4
+Nainital 0.41 11.73
+Bangalore 84.0 709.0
